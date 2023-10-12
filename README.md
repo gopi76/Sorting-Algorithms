@@ -15,5 +15,5 @@ This repository houses Python implementations of commonly discussed sorting algo
 Clone the repository and run individual sorting algorithms:
 
 ```bash
-git clone https://github.com/your-username/Sorting-Algorithms.git
+git clone https://github.com/gopi76/Sorting-Algorithms.git
 ```
